@@ -1,3 +1,7 @@
+## Notes
+
+Minimum Bionic C library Android 6.0 Marshmallow (API Level 23)
+
 ```bash
 rustup target add aarch64-linux-android
 
